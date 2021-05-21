@@ -1,0 +1,10 @@
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\TestEntidades\obj\Debug\TestEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\TestEntidades\bin\Debug\TestEntidades.exe.config
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\TestEntidades\bin\Debug\TestEntidades.exe
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\TestEntidades\bin\Debug\TestEntidades.pdb
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\TestEntidades\bin\Debug\Garcia.Ian.2A.dll
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\TestEntidades\bin\Debug\Garcia.Ian.2A.pdb
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\TestEntidades\obj\Debug\TestEntidades.csprojAssemblyReference.cache
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\TestEntidades\obj\Debug\TestEntidades.csproj.CopyComplete
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\TestEntidades\obj\Debug\TestEntidades.exe
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\TestEntidades\obj\Debug\TestEntidades.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\Garcia.Ian.2A\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\Garcia.Ian.2A\bin\Debug\Garcia.Ian.2A.dll
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\Garcia.Ian.2A\bin\Debug\Garcia.Ian.2A.pdb
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\Garcia.Ian.2A\obj\Debug\Garcia.Ian.2A.dll
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\Garcia.Ian.2A\obj\Debug\Garcia.Ian.2A.pdb
+C:\Users\Ianch\OneDrive\Escritorio\Garcia.Ian.2A\Garcia.Ian.2A\obj\Debug\Entidades.csprojAssemblyReference.cache
